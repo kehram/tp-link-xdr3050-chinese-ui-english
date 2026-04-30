@@ -32,7 +32,7 @@ This script converts key parts of the router’s web UI from Chinese to English 
 
 3. Open your router panel:
 
-   * http://192.168.2.1
+   * http://192.168.2.1 or http://192.168.0.1 or **tplogin.cn**
 
 ---
 
