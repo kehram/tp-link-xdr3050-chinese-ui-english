@@ -5,6 +5,7 @@
 // @description  Translate TP-Link TL-XDR3050 Chinese web UI into English
 // @author       Hasibul Alam Mamur
 // @match        *://192.168.2.1/*
+// @match        *://192.168.0.1/*
 // @match        *://192.168.*.*/*
 // @match        *://tplogin.cn/*
 // @run-at       document-idle
